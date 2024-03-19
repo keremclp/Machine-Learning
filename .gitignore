@@ -1,0 +1,26 @@
+# Ignore virtual environment directories
+ml_course/
+env/
+*.env
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files
+data/
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Ignore system and temporary files
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+*~
